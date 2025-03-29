@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: PRACTICA 2. SISTEMA RESPIRATORIO
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: MARIANA RIVERA
+    email: L22210427@TECTIJUANA.EDU.MX
+    affiliation: TECNOLOGICO NACIONAL DE MEXICO
+  - given-names: MICHELLE ZAMORA
+    email: L22210432@TECTIJUANA.EDU.MX
+    affiliation: TECNOLOGICO NACIONAL DE MEXICO
+keywords:
+  - sistema respiratorio
+license: BSD-2-Clause
+date-released: '2025-03-28'
